@@ -48,10 +48,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Netlify](https://img.shields.io/badge/-netlify-0D1117?style=for-the-badge&logo=netlify&labelColor=0D1117)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-
-
-
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-0D1117?style=for-the-badge&logo=Ubuntu&labelColor=0D1117)&nbsp;
+![AWS Organizations](https://img.shields.io/badge/-AWS%20Organizations-0D1117?style=for-the-badge&logo=awsorganizations&labelColor=0D1117)&nbsp;
 ### Studying in this moment:
 ![Design Patters](https://img.shields.io/badge/-Design%20Patters-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![SOLID](https://img.shields.io/badge/-Solid-0D1117?style=for-the-badge&logo=solid&labelColor=0D1117&textColor=0D1117)&nbsp;
