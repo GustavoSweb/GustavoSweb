@@ -50,8 +50,14 @@ galaxy_arms:
     color: "synapse_cyan"
     items:
       - "Node.js"
+      - "NestJS"
       - "PostgreSQL"
-      - "Discord.js"
+      - "Prisma"
+      - "TypeORM"
+      - "Design Patterns"
+      - "GraphQL"
+      - "Redis"
+      - "Socket.io"
   - name: "DevOps"
     color: "axon_amber"
     items:
